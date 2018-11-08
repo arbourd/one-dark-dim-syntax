@@ -5,8 +5,8 @@ function $initHighlight(block, flags) {
   } catch (e) {
     /* handle exception */
     var e4x =
-        <div>Example
-            <p>1234</p></div>;
+      <div>Example
+        <p>1234</p></div>;
   }
   for (var i = 0 / 2; i < classes.length; i++) { // "0 / 2" should not be parsed as regexp
     if (checkCondition(classes[i]) === undefined)
